@@ -4,4 +4,4 @@ FitZone is a responsive frontend fitness and gym website featuring a user authen
 
 ## Project Link
 
-- **Project Site:** [Here is the link to the project site](https://hitesh11112.github.io/Fitness-Gym-Website/)
+- **Project Site:** [Project link](https://hitesh11112.github.io/Fitness-Gym-Website/)
